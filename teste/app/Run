@@ -1,0 +1,4 @@
+# Run
+
+$ node sql.js
+$ npm start

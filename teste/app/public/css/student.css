@@ -1,0 +1,80 @@
+html, body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.page-student-content{
+    display: flex;
+}
+.sidebar{
+    flex: 1;
+    width: 10vw;
+    height: 110vh;
+    background-color: #247ba0;
+}
+.profile{
+    width: 70%;
+    height: 20%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.sidebar-content{
+    margin-top: 10%;
+}
+.sidebar-button{
+    margin-left: 7%;
+    margin-bottom: 5%;
+    cursor: pointer;
+    
+}
+.sidebar-item{
+    color: white;
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+.student-content{
+    flex: 5;
+    margin-left: 5%;
+    margin-top: 5vh;
+}
+.title-search{
+    display: flex;
+}
+.page-title{
+   float: left;
+   color:#13293d;
+}
+.search{
+    margin-left: 70%;
+    display: flex;
+}
+.btn-search{
+    background-color:#247ba0 ;
+    margin-left: 0;
+    text-align: center;
+    height: 95%;
+}
+.card-content{
+    background-color: #247ba0;
+    padding: 5%;
+    color: white;
+}
+
+.footer{
+    height: 5vh;
+    width: 100vw;
+    color: white;
+    background: #13293d;
+}
+.copyright{
+    margin-left: 85vw;
+    padding-top: 1vh;
+}
+.doubts{
+    display: flex;
+}
+
+.send-image{
+    margin-left: 10%;
+}
