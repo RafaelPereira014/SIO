@@ -1,0 +1,17 @@
+<h2> Subject Grades</h2>
+<br>
+
+<h3>First semester</h3>
+<div>Test1: <%= student.grades[index].first_semester[0].test1%></div>
+<div>Test2: <%= student.grades[index].first_semester[1].test2%></div>
+<div>Test3: <%= student.grades[index].first_semester[2].test3%></div>
+<br>
+
+<h3>Second semester</h3>
+<div>Test1: <%= student.grades[index].second_semester[0].test1%></div>
+<div>Test2: <%= student.grades[index].second_semester[1].test2%></div>
+<div>Test3: <%= student.grades[index].second_semester[2].test3%></div>
+
+<br>
+
+<div><a href="/student/<%= student.userid %> ">Back to profile</a></div>

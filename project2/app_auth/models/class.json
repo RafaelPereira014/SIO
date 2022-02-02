@@ -1,0 +1,24 @@
+[
+  {
+    "name": "10º Year",
+    "students": [
+      "4"
+    ],
+    "classId": "10"
+  },
+  {
+    "name": "11º Year",
+    "students": [
+      "5"
+    ],
+    "classId": "11"
+  },
+  {
+    "name": "12º Year",
+    "students": [
+      "6",
+      "7"
+    ],
+    "classId": "12"
+  }
+]

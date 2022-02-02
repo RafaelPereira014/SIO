@@ -1,0 +1,39 @@
+{ "webschool": [
+    {
+      "username":"albert",
+      "password":"1234",
+      "userid":"1" 
+    },
+    {
+      "username":"jjtom",
+      "password":"T0M4T3jj",
+      "userid":"2" 
+    },
+    {
+      "username":"rendesca",
+      "password":"Descalco8",
+      "userid":"3" 
+    },
+    {
+      "username": "danieelbueno",
+      "password": "henriqueFrank0",
+      "userid": "4"
+    },
+    {
+      "username": "rafa_pereira",
+      "password": "BotelhoTemaki",
+      "userid": "5"
+    },
+    {
+      "username": "daguiar",
+      "password": "euSouAguia",
+      "userid": "6"
+    },
+    {
+      "username": "yamunaqueD",
+      "password": "YacumNaMatata",
+      "userid": "7"
+    }
+    ]
+  }
+  

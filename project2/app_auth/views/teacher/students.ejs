@@ -1,0 +1,15 @@
+<h3> <%= name %>  Students</h3>
+
+<div>
+    <% students.forEach(student => {%>
+        <div><%= student.name %> </div>
+        <li><a href="/teacher/student/<%= student.userid %> ">Data</a></li>
+        <br>
+    <% }) %>
+   
+</div>
+
+
+<div><a href="/teacher/<%= userid %> ">Back to Profile</a></div>
+<br>
+

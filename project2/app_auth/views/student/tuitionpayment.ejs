@@ -1,0 +1,20 @@
+<div>
+    <li>Current credit: <%= student.credit %> </li>
+    <li>Remains to pay:<%= student.indebtedness %>  </li>
+</div>
+<br>
+
+<div>
+    <form action="/student/<%= student.userid %>/tuitionpayment" method="post">
+        <div>
+            <label>Insert the amount</label>
+            <input type="number" name="feeValue" min="0">  
+        </div>
+        <div>
+            <button type="submit">Pay</button>
+        </div>
+    </form>
+</div>
+<br>
+
+<div><a href="/student/<%= student.userid %> ">Back to profile</a></div>

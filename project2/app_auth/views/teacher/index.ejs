@@ -1,0 +1,44 @@
+<div class="page-student-content">
+    <!--Vertical NavBar-->
+    <div class="sidebar">
+        <img src="profile.png" alt="profile" class="profile">
+        
+        <div class="sidebar-content">
+            <ul class="sidebar-content">
+                <li class="">
+                    <p class="sidebar-item">Nome: <%-name%> </p>
+                </li>
+                <li class="">
+                    <p class="sidebar-item">Disciplina: <%-subject%> </p>
+                </li>
+            </ul>
+        </div>
+        <!-- Questions -->
+        <form action='/question' method="GET" class="sidebar-button">
+            <button class="btn btn-primary btn-md btn-block" type="submit" style="background:#1b98e0 !important;border: #1b98e0;">Questões</button>
+        </form> 
+    </div>
+
+<div>
+    
+    <div>10º ano</div>
+    <li><a href="/teacher/students/10">Students</a> </li>
+    <br>
+    <div>11º ano</div>
+    <li><a href="/teacher/students/11">Students</a> </li>
+    <br>
+    <div>12º ano</div>
+    <li><a href="/teacher/students/12">Students</a></li>
+    <br>
+</div>
+
+<div>
+    <!-- Sign out -->
+    <form action='/logout' method="GET" class="sidebar-button">
+        <button class="btn btn-primary btn-md btn-block" style="background:#1b98e0 !important;border: #1b98e0;">Log out</button>
+    </form> 
+</div>
+<div class="footer">
+    <p class="copyright">©Desenvolvido pelo grupo 3</p>
+</div>
+

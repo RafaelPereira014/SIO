@@ -1,0 +1,77 @@
+body {
+	color: #fff;
+	background: #e8f1f1f2!important;
+}
+.form-control {
+	min-height: 41px;
+	background: #fff;
+	box-shadow: none !important;
+	border-color: #e3e3e3;
+}
+.form-control:focus {
+	border-color: #70c5c0;
+}
+.form-control, .btn {        
+	border-radius: 2px;
+}
+.login-form {
+	width: 350px;
+	margin: 0 auto;
+	padding: 100px 0 30px;		
+}
+.form-group{
+	margin-top: 5%;
+}
+.data{
+	margin-top: 28%;
+}
+.login-form form {
+	color: white;
+	border-radius: 2px;
+	margin-top: 15%;
+	font-size: 13px;
+	background: #247ba0;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	padding: 30px;	
+	position: relative;	
+	height: 45vh;
+}
+.login-form h2 {
+	font-size: 22px;
+	margin: 35px 0 25px;
+}
+.login-form .avatar {
+	position: absolute;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	top: -50px;
+	width: 95px;
+	height: 95px;
+	border-radius: 50%;
+	z-index: 9;
+	background: #1b98e0 ;
+	padding: 15px;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+}
+.login-form .avatar img {
+	width: 100%;
+}	
+.login-form input[type="checkbox"] {
+	position: relative;
+	top: 1px;
+}
+.login-form .btn, .login-form .btn:active {        
+	font-size: 16px;
+	font-weight: bold;
+	background: #1b98e0 !important;
+	border: none;
+	margin-bottom: 20px;
+}
+.login-form .btn:hover, .login-form .btn:focus {
+	background: #50b8b3 !important;
+}    
+
+.login-form .bottom-action {
+	font-size: 14px;
+}

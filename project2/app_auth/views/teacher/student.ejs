@@ -1,0 +1,40 @@
+<h2><%= student.name %> </h2>
+<br>
+
+<h3>Grades</h3>
+
+<h3>First semester</h3>
+<div>Test1: <%= grades.first_semester[0].test1 %> </div>
+<br>
+
+<div>Test2: <%= grades.first_semester[1].test2 %> </div>
+<br>
+
+<div>Test3: <%= grades.first_semester[2].test3 %></div>
+<br>
+
+<h3>Second semester</h3>
+<div>Test1: <%= grades.second_semester[0].test1 %></div>
+<br>
+<div>Test2: <%= grades.second_semester[1].test2%></div>
+<br>
+<div>Test3: <%= grades.second_semester[2].test3%></div>
+<br>
+
+<h4>Send or Change Grade</h4>
+<form action="/teacher/student/<%= student.userid %> " method="post">
+    <label >Semester</label>
+    <select name="semester">
+        <option value="first">First</option>
+        <option value="second">Second</option>
+    </select>
+    <label >Test</label>
+    <select name="test">
+        <option value="test1">Test1</option>
+        <option value="test2">Test2</option>
+        <option value="test3">Test3</option>
+    </select>
+    <label>Grade</label>
+    <input type="number" name="grade" min="0" max="20">
+    <button type="submit">Submit</button>
+</form>

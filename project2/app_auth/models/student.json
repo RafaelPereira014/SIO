@@ -1,0 +1,344 @@
+[
+  {
+    "username": "danieelbueno",
+    "password": "henriqueFrank0",
+    "name": "Daniel Bueno",
+    "userid": "4",
+    "credit": 1000,
+    "indebtedness": 1000,
+    "grades": [
+      {
+        "subject": "Math",
+        "first_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ],
+        "second_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ]
+      },
+      {
+        "subject": "Chemestry",
+        "first_semester": [
+          {
+            "test1": "18"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ],
+        "second_semester": [
+          {
+            "test1": "10",
+            "test3": "10",
+            "test2": "10"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "10"
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "first_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ],
+        "second_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "username": "rafa_pereira",
+    "password": "BotelhoTemaki",
+    "name": "Rafael Pereira",
+    "credit": 1000,
+    "indebtedness": 1000,
+    "grades": [
+      {
+        "subject": "Math",
+        "first_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ],
+        "second_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ]
+      },
+      {
+        "subject": "Chemestry",
+        "first_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ],
+        "second_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "first_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ],
+        "second_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ]
+      }
+    ],
+    "userid": "5"
+  },
+  {
+    "username": "daguiar",
+    "password": "euSouAguia",
+    "name": "Diogo Aguiar",
+    "credit": 1000,
+    "indebtedness": 1000,
+    "grades": [
+      {
+        "subject": "Math",
+        "first_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ],
+        "second_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ]
+      },
+      {
+        "subject": "Chemestry",
+        "first_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ],
+        "second_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "first_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ],
+        "second_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ]
+      }
+    ],
+    "userid": "6"
+  },
+  {
+    "username": "yamunaqueD",
+    "password": "YacumNaMatata",
+    "name": "Denis Yamunaque",
+    "credit": 1000,
+    "indebtedness": 1000,
+    "grades": [
+      {
+        "subject": "Math",
+        "first_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ],
+        "second_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ]
+      },
+      {
+        "subject": "Chemestry",
+        "first_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ],
+        "second_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "first_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ],
+        "second_semester": [
+          {
+            "test1": "Sem nota"
+          },
+          {
+            "test2": "Sem nota"
+          },
+          {
+            "test3": "Sem nota"
+          }
+        ]
+      }
+    ],
+    "userid": "7"
+  }
+]
